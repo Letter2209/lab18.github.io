@@ -1,0 +1,35 @@
+.bg-img-1 {
+  height: 75vh;
+  background-size: cover;
+  background-image: linear-gradient(
+      rgba(97, 97, 97, 0.214),
+      rgba(39, 39, 39, 0.015)
+    ),
+    url(image/lake-1662536708058-3153.jpg);
+}
+
+.bg-img-2 {
+  height: 75vh;
+  background-size: cover;
+  background-image: linear-gradient(
+      to right,
+      rgba(53, 53, 53, 0.536),
+      rgba(186, 174, 148, 0)
+    ),
+    url(image/pexels-david-bartus-2825241.jpg);
+}
+
+.bg-img-3 {
+  height: 75vh;
+  background-size: cover;
+  background-image: linear-gradient(
+      to right,
+      rgba(56, 56, 56, 0.405),
+      rgba(164, 164, 164, 0.262)
+    ),
+    url(image/pexels-nuno-obey-127160.jpg);
+}
+
+::marker {
+  font-size: 11px;
+}
